@@ -16,9 +16,9 @@
 ## Teclas Necessárias
 
 ### Iluminação
--   Z/X: aumenta/diminui a iluminação ambiente do Sol
--   C/V: aumenta/diminui a iluminação difusa do Sol
--   B/N: aumenta/diminui a iluminação especular do Sol
+-   __Z/X__: aumenta/diminui a iluminação ambiente do Sol
+-   __C/V__: aumenta/diminui a iluminação difusa do Sol
+-   __B/N__: aumenta/diminui a iluminação especular do Sol
 -   L: liga/desliga a luz emitida pelos planetas Terra, Marte, Saturno
 -   K: liga/desliga a luz emitida pelo Sol
 
