@@ -4,7 +4,7 @@
 
 * Freeglut: `sudo apt-get install freeglut3-dev`
 * SOIL: `sudo apt-get install libsoil-dev`
-* LDS: `sudo apt-get install -y libsdl2-mixer-dev`
+* SDL: `sudo apt-get install -y libsdl2-mixer-dev`
 * GLM: `sudo apt install libglm-dev`
 
 ## Compilar e Executar o projeto
