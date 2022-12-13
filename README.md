@@ -16,14 +16,11 @@
 ## Teclas Necessárias
 
 ### Iluminação
--   Z: aumenta a iluminação ambiente 
--   X: diminui a iluminação ambiente 
--   C: aumenta a iluminação difusa
--   V: diminui a iluminação difusa
--   B: aumenta a iluminação especular 
--   N: diminui a iluminação especular 
--   L: desliga/liga a luz emitida pelos planetas Terra, Marte, Saturno
--   K: desliga/liga a luz emitida pelo Sol
+-   Z/X: aumenta/diminui a iluminação ambiente do Sol
+-   C/V: aumenta/diminui a iluminação difusa do Sol
+-   B/N: aumenta/diminui a iluminação especular do Sol
+-   L: liga/desliga a luz emitida pelos planetas Terra, Marte, Saturno
+-   K: liga/desliga a luz emitida pelo Sol
 
 ### Movimentação
 -   W: move-se para FRENTE de onde a câmera aponta
