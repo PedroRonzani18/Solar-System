@@ -1,6 +1,6 @@
 # Solar System
 
-## Bibliotecas Necessárias para execução:
+## Bibliotecas Necessárias para execução no Linux
 
 * Freeglut: `sudo apt-get install freeglut3-dev`
 * SOIL: `sudo apt-get install libsoil-dev`
@@ -16,7 +16,6 @@
 ## Teclas Necessárias
 
 ### Iluminação
-
 -   Z: aumenta a iluminação ambiente 
 -   X: diminui a iluminação ambiente 
 -   C: aumenta a iluminação difusa
@@ -26,7 +25,7 @@
 -   L: desliga/liga a luz emitida pelos planetas Terra, Marte, Saturno
 -   K: desliga/liga a luz emitida pelo Sol
 
-### Movimentacao
+### Movimentação
 -   W: move-se para FRENTE de onde a câmera aponta
 -   S: move-se para TRÁS de onde a câmera aponta
 -   A: move-se para ESQUERDA de onde a câmera aponta
