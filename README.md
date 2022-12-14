@@ -1,5 +1,5 @@
 # Solar System
- projeto de um Sistema Solar 3D para aula de Computação Gráfica
+ Exercicios realizados durante o curso de Python do Canal "Curso em Vídeo"
 
 ## Bibliotecas Necessárias para execução no Linux
 
