@@ -1,0 +1,12 @@
+Textura: Assets/imagens/2k_jupiter.jpg
+DependsOnLight: 1
+NumberOfMoons: 3
+CoreRadius: 175
+RotationRadius: 11
+TranslationPeriod: 4000
+RotationPeriod: 0.41
+GlLightConst: -1
+MaterialAmbient: 0.25, 0.25, 0.25, 1
+MaterialDifuse: 0.1, 0.1, 0.4, 1 
+MaterialEspecular: 1, 1, 1, 1 
+MaterialShininess: 128

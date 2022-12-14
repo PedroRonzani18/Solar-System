@@ -1,0 +1,10 @@
+Textura: Assets/imagens/satelite.png
+Modelo: Assets/modelos/satelite.obj
+Afetado pela luz: 1
+Tamanho = 0.05;
+Tempo de translação = 0.5;
+Tempo de rotação = 0.6;
+Componentes Ambientes do material : 1, 1, 1, 1
+Componentes Difusas do material: 1, 1, 1, 1
+Componentes Especulares do material: 1, 1, 1, 1
+Brilhosidade do material : 128

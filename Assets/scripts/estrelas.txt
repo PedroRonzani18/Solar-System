@@ -1,0 +1,12 @@
+Textura: Assets/imagens/2k_stars_milky_way.jpg
+DependsOnLight: 0
+NumberOfMoons: 0
+CoreRadius: 6000
+RotationRadius: 0
+TranslationPeriod: 0
+RotationPeriod: 50
+GlLightConst: -1
+MaterialAmbient: 1, 1, 1, 1
+MaterialDifuse: 1, 1, 1, 1
+MaterialEspecular: 1, 1, 1, 1
+MaterialShininess: 50

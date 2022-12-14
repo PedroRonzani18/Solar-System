@@ -1,0 +1,8 @@
+Raio do Planeta : 0.15;
+Tempo de translação : 0.5;
+Multiplicador de raio de rotacao: 1.5
+Tempo de rotação : 50;
+Componentes Ambientes do material   : 1, 1, 1, 1
+Componentes Difusas do material     : 1, 1, 1, 1
+Componentes Especulares do material : 1, 1, 1, 1
+Brilhosidade do material            : 128

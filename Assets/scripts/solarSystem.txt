@@ -1,0 +1,8 @@
+Assets/scripts/terra.txt;    1
+Assets/scripts/marte.txt;    1
+Assets/scripts/saturno.txt;  1
+Assets/scripts/jupiter.txt;  0
+Assets/scripts/mercurio.txt; 0
+Assets/scripts/venus.txt;    0
+Assets/scripts/urano.txt;    0
+Assets/scripts/netuno.txt;   0

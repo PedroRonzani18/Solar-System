@@ -1,0 +1,12 @@
+Textura: Assets/imagens/2k_venus_surface.jpg
+Afetado pela luz: 1
+Numero de Luas: 3
+CoreRadius: 60
+Raio de Rotacao: 5.4
+Tempo de translação: 800
+Tempo de rotação: 6
+GlLightConst: -1
+Componentes Ambientes do material: 0.2, 0.2, 0.2, 1
+Componentes Difusas do material: 0.2, 0.2, 0.2, 1
+Componentes Especulares do material: 0.2, 0.2, 0.2, 1
+Brilhosidade do material: 128

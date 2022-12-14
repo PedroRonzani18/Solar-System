@@ -1,0 +1,12 @@
+Textura: Assets/imagens/2k_mars.jpg
+Afetado pela luz: 1
+Numero de Luas: 2
+Raio do Planeta: 34
+Raio de Rotacao: 8.9
+Tempo de translação: 2400
+Tempo de rotação: 1.03
+GlLightConst: 2
+Componentes Ambientes do material : 0.4, 0.4, 0.4, 1
+Componentes Difusas do material: 0.4, 0.4, 0.4, 1
+Componentes Especulares do material: 0.4, 0.4, 0.4, 1
+Brilhosidade do material : 128

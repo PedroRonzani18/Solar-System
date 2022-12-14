@@ -1,0 +1,12 @@
+Textura: Assets/imagens/2k_saturn.jpg
+Afetado pela luz: 1
+Numero de Luas: 3
+Raio do Planeta: 120
+Raio de Rotacao: 13.35
+Tempo de translação: 6000
+Tempo de rotação: 0.45
+GlLightConst: 3
+Componentes Ambientes do material : 0.6, 0.6, 0.6, 1
+Componentes Difusas do material: 0.6, 0.6, 0.6, 1
+Componentes Especulares do material: 0.6, 0.6, 0.6, 1
+Brilhosidade do material : 128

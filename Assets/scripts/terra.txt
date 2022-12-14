@@ -1,0 +1,12 @@
+Textura: Assets/imagens/2k_earth_daymap.jpg
+Afetado pela luz: 1
+Numero de Luas: 1
+Raio do Planeta: 64
+Raio de Rotacao: 7.3
+Tempo de translação: 1200
+Tempo de rotação: 0.99
+GlLightConst: 1
+Componentes Ambientes do material : 0.25, 0.25, 0.25, 1
+Componentes Difusas do material: 0.1, 0.1, 0.4, 1 
+Componentes Especulares do material: 1, 1, 1, 1 
+Brilhosidade do material : 128

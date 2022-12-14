@@ -1,0 +1,12 @@
+Textura: Assets/imagens/2k_neptune.jpg
+Afetado pela luz: 1
+Numero de Luas: 3
+Raio do Planeta: 77
+Raio de Rotacao: 17.3
+Tempo de translação: 10000
+Tempo de rotação: 0.67
+GlLightConst: -1
+Componentes Ambientes do material : 0.8, 0.8, 0.8, 1
+Componentes Difusas do material: 0.8, 0.8, 0.8, 1
+Componentes Especulares do material: 0.8, 0.8, 0.8, 1
+Brilhosidade do material : 128

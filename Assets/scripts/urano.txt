@@ -1,0 +1,12 @@
+Textura: Assets/imagens/2k_uranus.jpg
+Afetado pela luz: 1
+Numero de Luas: 3
+Raio do Planeta: 85
+Raio de Rotacao: 15.2
+Tempo de translação: 8000
+Tempo de rotação: 0.72
+GlLightConst: -1
+Componentes Ambientes do material : 0.7, 0.7, 0.7, 1
+Componentes Difusas do material: 0.7, 0.7, 0.7, 1
+Componentes Especulares do material: 0.7, 0.7, 0.7, 1
+Brilhosidade do material : 128

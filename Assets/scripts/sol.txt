@@ -1,0 +1,16 @@
+Textura: Assets/imagens/2k_sun.jpg
+Afetado pela luz: 0
+Numero de Luas: 0
+Raio do Planeta: 600
+Raio de Rotacao: 0
+Tempo de translação: 0
+Tempo de rotação: 0
+GlLightConst: 0
+Alteravel: 1
+dInicial: 1
+mInicial: 0.2
+eInicial: 1
+Componentes Ambientes do material : 1, 1, 1, 1
+Componentes Difusas do material: 1, 1, 1, 1
+Componentes Especulares do material: 1, 1, 1, 1
+Brilhosidade do material : 128
