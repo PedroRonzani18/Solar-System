@@ -1,4 +1,5 @@
 # Solar System
+ projeto de um Sistema Solar 3D para aula de Computação Gráfica
 
 ## Bibliotecas Necessárias para execução no Linux
 
