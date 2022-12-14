@@ -1,5 +1,4 @@
 # Solar System
- Exercicios realizados durante o curso de Python do Canal "Curso em Vídeo"
 
 ## Bibliotecas Necessárias para execução no Linux
 
