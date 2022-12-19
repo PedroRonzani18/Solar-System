@@ -29,4 +29,4 @@
 -   D: move-se para DIREITA de onde a câmera aponta
 
 ## Observation
-- Link to [previous versions](https://github.com/PedroRonzani18/Arquivos_Programas/tree/master/Computa%C3%A7%C3%A3o%20Gr%C3%A1fica/Avaliacoes/TP2) of this project
+- Link to [previous versions](https://github.com/PedroRonzani18/Projects-Previous-Versions/tree/main/Solar%20System%20(TP2)) of this project
