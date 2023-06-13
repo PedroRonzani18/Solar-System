@@ -10,13 +10,13 @@
 #include "Header/Parser.h"
 
 // Objeto responsável por gerenciar os acontecimentos da cena
-Space* space;
+std::unique_ptr<Space> space;
 
 // Inicializa aspectos importantes para funcionamento do programa
 void initialize()
 {
     // Instancia o space
-    space = new Space();
+    space = std::make_unique<Space>();
 
     // Instancia o sinalizador de pressionamento de teclas
     keys = std::make_shared<Keyboard>();
@@ -69,52 +69,52 @@ void keyboard(unsigned char key, int x, int y)
 
             case 'W':
                 if(keys->w) keys->w = 0;
-                else       keys->w = 1;
+                else        keys->w = 1;
                 break;
 
             case 'A':
                 if(keys->a) keys->a = 0;
-                else       keys->a = 1;
+                else        keys->a = 1;
                 break;
 
             case 'S':
                 if(keys->s) keys->s = 0;
-                else       keys->s = 1;
+                else        keys->s = 1;
                 break;
 
             case 'D':
                 if(keys->d) keys->d = 0;
-                else       keys->d = 1;
+                else        keys->d = 1;
                 break;
 
             case ' ':
                 if(keys->space) keys->space = 0;
-                else        keys->space = 1;
+                else            keys->space = 1;
                 break;
 
             case 'F':
                 if(keys->f) keys->f = 0;
-                else       keys->f = 1;
+                else        keys->f = 1;
                 break;
 
             case 'Z':
                 if(keys->z) keys->z = 0;
-                else       keys->z = 1;
+                else        keys->z = 1;
                 break;
 
             case 'X':
                 if(keys->x) keys->x = 0;
-                else       keys->x = 1;
+                else        keys->x = 1;
                 break;
 
             case 'C':
                 if(keys->c) keys->c = 0;
-                else       keys->c = 1;
+                else        keys->c = 1;
                 break;
 
             case 'V':
                 if(keys->v) keys->v = 0;
-                else       keys->v = 1;
+                else        keys->v = 1;
                 break;
 
             case 'B':
@@ -173,7 +173,7 @@ void glutInitialize(int argc, char **argv)
     glutInitWindowSize(1384,752);
     glutInitWindowPosition(325,125);
     glutInitDisplayMode(GLUT_RGB | GLUT_DOUBLE | GLUT_DEPTH);
-    glutCreateWindow("Lista 3");
+    glutCreateWindow("Solar System");
 
     glutIgnoreKeyRepeat(1); 
 
